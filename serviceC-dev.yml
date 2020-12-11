@@ -3,4 +3,4 @@ server:
   
 spring:
   application:
-    name: serviceC-dev-9002
+    name: serviceC-dev-9001
