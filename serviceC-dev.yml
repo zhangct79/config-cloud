@@ -1,2 +1,6 @@
 server:
   port: 9901
+  
+spring:
+  application:
+    name: serviceC-dev-9002
