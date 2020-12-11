@@ -1,2 +1,4 @@
+SERVICE_NAME: serviceC-test-9002
+
 server:
   port: 9902

@@ -1,2 +1,4 @@
+SERVICE_NAME: serviceC-dev-9901
+
 server:
   port: 9901
