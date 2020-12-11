@@ -1,3 +1,6 @@
+person:
+  name: person-dev
+
 server:
   port: 9902
 
