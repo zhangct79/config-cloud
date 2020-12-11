@@ -1,6 +1,6 @@
+server:
+	port: 9902
+
 spring:
   application:
     name: serviceC-test-9002
-
-server:
-	port: 9902
