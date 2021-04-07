@@ -1,6 +1,9 @@
 person:
   name: person-dev
 
+frame:
+  name: XXXXX
+
 server:
   port: 9902
 

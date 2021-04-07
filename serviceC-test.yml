@@ -1,6 +1,9 @@
 person:
   name: person-test
 
+frame:
+  name: YYYYY
+
 server:
   port: 9901
 
